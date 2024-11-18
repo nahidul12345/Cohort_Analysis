@@ -53,7 +53,7 @@ Understanding customer retention is crucial for businesses aiming to grow and ma
 [Click here to explore the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTIxODkyMDAtNWJlZi00YjY3LWJlYzItNTE2ZTA1MjVkYTNlIiwidCI6IjM0YmVhMGY1LTRlNmMtNDdjZC05NjFmLTIxMjA1ZGYxMjQ1MSIsImMiOjEwfQ%3D%3D)
 
 
-  
+- **Dataset Source**: [Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)  
 
 ## 📈 Dataset  
 
