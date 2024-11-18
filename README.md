@@ -71,7 +71,7 @@ A big thank you to **[Md Shabbir Hossain Bhuiyea](https://linkedin.com/in/mdshab
 
 ## 🔗 Resources  
 
-- **Power BI File**: [Download Here](https://github.com/yourusername/cohort-analysis-powerbi/releases)  
+- **Power BI File**: [Download Here](https://github.com/nahidul12345/Cohort_Analysis/blob/main/Retail%20Customer%20Analysis.pbix)  
 - **LinkedIn Post**: [Check It Out](https://lnkd.in/dTfzpQ7X)  
 
 ## 📬 Feedback  
