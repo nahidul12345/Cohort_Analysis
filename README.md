@@ -44,7 +44,7 @@ Understanding customer retention is crucial for businesses aiming to grow and ma
 ## 📊 Dashboards  
 
 ## Retail Customer Analysis Dashboard  
-![Retail Customer Analysis](![image](https://github.com/user-attachments/assets/b57b296b-799e-48a9-9a72-12711778bd8f)
+![Retail Customer Analysis] (![image](https://github.com/user-attachments/assets/b57b296b-799e-48a9-9a72-12711778bd8f)
 )
 
 [Click here to explore the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTIxODkyMDAtNWJlZi00YjY3LWJlYzItNTE2ZTA1MjVkYTNlIiwidCI6IjM0YmVhMGY1LTRlNmMtNDdjZC05NjFmLTIxMjA1ZGYxMjQ1MSIsImMiOjEwfQ%3D%3D)
