@@ -43,21 +43,10 @@ Understanding customer retention is crucial for businesses aiming to grow and ma
 
 ## 📊 Dashboards  
 
-![Cohort Analysis Dashboard](https://via.placeholder.com/800x400.png?text=Dashboard+Preview)  
+![Cohort Analysis Dashboard](<iframe title="Retail Customer Analysis" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZTIxODkyMDAtNWJlZi00YjY3LWJlYzItNTE2ZTA1MjVkYTNlIiwidCI6IjM0YmVhMGY1LTRlNmMtNDdjZC05NjFmLTIxMjA1ZGYxMjQ1MSIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>)  
 _Example of the interactive dashboard created in Power BI._  
 
-## 🚀 How to Use  
-
-1. Clone this repository:  
-   ```bash  
-   git clone https://github.com/yourusername/cohort-analysis-powerbi.git  
-   ```  
-
-2. Open the `.pbix` file in Power BI Desktop.  
-
-3. Explore the data model, DAX measures, and dashboards.  
-
-4. Customize the dataset by replacing it with your transactional data.  
+  
 
 ## 📈 Dataset  
 
