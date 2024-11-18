@@ -80,9 +80,4 @@ I’d love to hear your thoughts! Feel free to open an issue or reach out to me 
 
 ---
 
-**Hashtags**:  
-`#PowerBI` `#DataAnalysis` `#CohortAnalysis` `#CustomerRetention` `#ChurnAnalysis` `#DAX` `#BusinessIntelligence`  
 
----
-
-Let me know if you'd like to add anything specific! 🚀
